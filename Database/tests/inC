@@ -1,0 +1,78 @@
+a 2 Micah Sinclair 2
+a 4 Sofia Gibson 14
+g 4 100
+g 4 200
+g 4 300
+t
+a 8 Teighan Chan 29
+t
+a 3 Gracie French 22
+a 7 Mohammed Hayes 38
+a 1 Charles Chandler 17
+a 5 Eleanor Shane 18
+a 6 William Mcgrath 44
+a 13 John Sinclair 1
+a 11 Morgan Hill 19
+a 10 Isaac Scott 10
+a 20 Charlie Carter 1
+a 14 Saeko Takasuka 3
+a 22 Summer Ashton 5
+a 15 Alice Sinclair 2
+a 17 Elsie Sinclair 6
+a 16 Jasper Davidson 23
+a 21 Sandra Blankenship 8
+a 19 Caleb Vancouver 2
+a 23 Eva Bishop 34
+a 24 Holly Noble 40
+a 25 Jared McMillan 20
+a 26 Lakita Stillwell 24
+t
+a 27 Sanjay Patil 2
+t
+l 4
+p
+r 21
+r 8 
+r 6
+r 3
+r 5
+r 11
+n Sinclair
+r 17
+r 2
+n Sinclair
+l 4
+r 7
+r 1
+r 1
+r 2
+r 19
+t
+r 25
+t
+l 4
+r 22
+r 26
+r 10
+r 15
+r 20
+t
+r 23
+t
+l 4
+r 4
+l 27
+r 14
+r 16
+r 13
+a 14 Saeko Takasuka 3
+a 22 Summer Ashton 5
+t
+r 24
+r 27
+r 14 
+r 22
+t
+a 26 Lakita Stillwell 24
+t
+q
